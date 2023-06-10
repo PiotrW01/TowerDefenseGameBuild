@@ -5,3 +5,4 @@ Controls:
   M: Buy menu shortcut  
   Z: Next wave shortcut  
   G: Change game speed  
+  Esc: Menu
